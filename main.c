@@ -6,5 +6,6 @@ int main(void) {
     printf("Entrez deux entiers : ");
     scanf("%d %d", &a, &b);
     printf("Somme = %d\n", a + b);
+    printf("Merci d'avoir utilise calcul-c !\n");
     return 0;
 }
